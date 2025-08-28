@@ -86,8 +86,9 @@ nav {
     margin: 0px auto;
 }
 
-.my-motivations {
+.my-motivations{
     text-align: center;
+    margin :90px 0px 90px ;
 }
 
 .question {
@@ -101,10 +102,11 @@ nav {
 }
 
 .section-description {
-    color: rgba(13, 19, 33, 1);
+    color: rgba(13, 19, 33, 0.7);
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
+    margin: 24px 0px 48px;
 }
 
 .motivation {
@@ -112,6 +114,7 @@ nav {
     text-align: left;
     justify-content: space-between;
     align-items: center;
+    margin: 64px 0px 64px;
 }
 .motivation img{
     width: 275px;
@@ -143,4 +146,14 @@ nav {
     background-color: white;
     border: 1px solid;
     opacity: 0.7;
+}
+.my-inspiration{
+    margin: 80px 0px ;
+}
+.inspiration{
+    text-align: center;
+}
+#video{
+    width: 100%;
+    border-radius: 16px;
 }
